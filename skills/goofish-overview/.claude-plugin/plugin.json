@@ -3,9 +3,15 @@
   "displayName": "Goofish Overview",
   "description": "闲鱼自动化总入口：介绍工具定位、账号模型、15 个 MCP 工具速查、风控底线，并指向其它专项 skill。",
   "version": "0.3.0",
-  "author": { "name": "fancy" },
+  "author": {
+    "name": "fancy"
+  },
   "homepage": "https://github.com/fancyboi999/goofish-cli",
   "license": "Apache-2.0",
-  "keywords": ["xianyu", "goofish", "overview", "mcp"],
-  "skills": "./skills"
+  "keywords": [
+    "xianyu",
+    "goofish",
+    "overview",
+    "mcp"
+  ]
 }

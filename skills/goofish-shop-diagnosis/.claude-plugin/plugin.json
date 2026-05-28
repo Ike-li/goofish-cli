@@ -3,9 +3,16 @@
   "displayName": "Goofish Shop Diagnosis",
   "description": "限流/降权/曝光掉的归因诊断。search_items 买家视角搜 + item_view 历史对比 → 给嫌疑排序和修复清单。",
   "version": "0.3.0",
-  "author": { "name": "fancy" },
+  "author": {
+    "name": "fancy"
+  },
   "homepage": "https://github.com/fancyboi999/goofish-cli",
   "license": "Apache-2.0",
-  "keywords": ["xianyu", "goofish", "diagnosis", "traffic", "ranking"],
-  "skills": "./skills"
+  "keywords": [
+    "xianyu",
+    "goofish",
+    "diagnosis",
+    "traffic",
+    "ranking"
+  ]
 }
