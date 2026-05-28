@@ -1,0 +1,11 @@
+{
+  "name": "goofish-reply-buyer",
+  "displayName": "Goofish Reply Buyer",
+  "description": "买家消息闭环：拉未读 → 意图分类 → 议价阶梯策略 → 风控扫描 → 用户确认发送。不托管发送权。",
+  "version": "0.3.0",
+  "author": { "name": "fancy" },
+  "homepage": "https://github.com/fancyboi999/goofish-cli",
+  "license": "Apache-2.0",
+  "keywords": ["xianyu", "goofish", "reply", "buyer", "negotiation"],
+  "skills": "./skills"
+}

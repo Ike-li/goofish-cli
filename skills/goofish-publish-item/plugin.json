@@ -1,0 +1,11 @@
+{
+  "name": "goofish-publish-item",
+  "displayName": "Goofish Publish Item",
+  "description": "从描述/图片到商品发布的闭环：类目识别 → 标题 5 段式生成 → 风控扫描 → 批量传图 → 用户确认 → 调 item_publish。",
+  "version": "0.3.0",
+  "author": { "name": "fancy" },
+  "homepage": "https://github.com/fancyboi999/goofish-cli",
+  "license": "Apache-2.0",
+  "keywords": ["xianyu", "goofish", "publish", "listing"],
+  "skills": "./skills"
+}

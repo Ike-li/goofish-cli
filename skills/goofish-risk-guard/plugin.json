@@ -1,0 +1,11 @@
+{
+  "name": "goofish-risk-guard",
+  "displayName": "Goofish Risk Guard",
+  "description": "发布/发消息/风控恢复三道闸门。内置违禁词表、外联词表、x5sec 恢复指引。被其它 skill 频繁引用。",
+  "version": "0.3.0",
+  "author": { "name": "fancy" },
+  "homepage": "https://github.com/fancyboi999/goofish-cli",
+  "license": "Apache-2.0",
+  "keywords": ["xianyu", "goofish", "risk", "guard", "compliance"],
+  "skills": "./skills"
+}
